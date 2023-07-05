@@ -14,7 +14,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -65,10 +64,6 @@
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,7 +128,7 @@ You can deploy this project using:
 
 👤 **Alex Asciencio**
 - GitHub: [@githubhandle](https://github.com/Asciencioalex)
-- Twitter: [@twitterhandle](https://twitter.com/@Codenetech)
+- Twitter: [@twitterhandle](https://twitter.com/Codnetech)
 - LinkedIn: [LinkedIn](https://linkedin.com/alex-asciencio-413612b9/)
 
 ## 🔭 Future Features <a name="future-features"></a>
@@ -150,7 +145,7 @@ The other features that will be added to this project are:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/AsciencioAlex/Hello-Microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
