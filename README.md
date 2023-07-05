@@ -129,7 +129,7 @@ You can deploy this project using:
 👤 **Alex Asciencio**
 - GitHub: [@githubhandle](https://github.com/Asciencioalex)
 - Twitter: [@twitterhandle](https://twitter.com/Codnetech)
-- LinkedIn: [LinkedIn](https://linkedin.com/alex-asciencio-413612b9/)
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/alex-asciencio-413612b9)  
 
 ## 🔭 Future Features <a name="future-features"></a>
 
