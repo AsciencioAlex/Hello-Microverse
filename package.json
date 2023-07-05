@@ -1,0 +1,20 @@
+{
+  "name": "First-Project-Microverse",
+  "version": "1.0.0",
+  "description": "A simple Hello Microverse project using HTML and CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "open index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AsciencioAlex/First-Project-Microverse.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Hello Microverse"
+  ],
+  "author": "Alex Asciencio",
+  "license": "MIT"
+}
