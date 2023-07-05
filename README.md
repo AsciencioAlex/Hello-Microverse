@@ -127,7 +127,7 @@ You can deploy this project using:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Alex Asciencio**
-- GitHub: [@githubhandle](https://github.com/Asciencioalex)
+- GitHub: [@githubhandle](https://github.com/AsciencioAlex)
 - Twitter: [@twitterhandle](https://twitter.com/Codnetech)
 - LinkedIn: [LinkedIn](https://ke.linkedin.com/in/alex-asciencio-413612b9)  
 
